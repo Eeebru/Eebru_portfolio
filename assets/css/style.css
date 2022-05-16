@@ -939,6 +939,10 @@ main {
   margin-bottom: 10px;
 }
 
+.h4-span {
+  padding-left: 10px;
+}
+
 .project-item { display: none; }
 
 .project-item.active {
